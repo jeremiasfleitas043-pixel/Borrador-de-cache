@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clean Master AI</string>
+    <string name="nav_dashboard">Inicio</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_clean">Limpieza</string>
+    <string name="nav_history">Historial</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="action_analyze_apps">Analizar aplicaciones</string>
+    <string name="action_multi_clean">Limpieza múltiple</string>
+    <string name="action_start_clean">INICIAR LIMPIEZA</string>
+    <string name="section_clear_data">BORRAR DATOS</string>
+    <string name="warning_clear_data">Esta operación puede eliminar cuentas iniciadas, configuraciones, archivos locales y datos guardados de la aplicación</string>
+    <string name="label_not_available">No disponible</string>
+</resources>
